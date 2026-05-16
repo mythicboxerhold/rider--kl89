@@ -1,4 +1,4 @@
-# 
+# rare JetBrains Rider for PC | JetBrains Rider for Windows Plugin | intelligent-suggestions + code-formatting is the best JetBrains Rider for PC | JetBrains Rider for Windows
 
 
 
